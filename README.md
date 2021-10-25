@@ -47,6 +47,12 @@ Here is the standard keyboard for reference:
 
 (where between each pair of |'s, we specify first the standard character to be bound to, and the second when holding down shift)
 
+# Info about the script
+
+The script generates a valid config file by taking `us_copy` which is just a copy of the default `us` layout and injects custom bindings below the standard ones. The key mapping follows this:
+
+![](keyboard.png)
+
 # Contributing
 
 Feel free to add your own custom layouts to the layout directory as pull requests, if this ever becomes quite large we can always split the repo into two of them.
