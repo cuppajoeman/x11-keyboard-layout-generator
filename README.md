@@ -1,3 +1,7 @@
+# What it does
+
+This program lets you generate new keyboard configurations with ease just by creating layouts in textfiles.
+
 # Getting Started
 
 Let's make a new keyboard layout
@@ -43,8 +47,13 @@ Here is the standard keyboard for reference:
 
 (where between each pair of |'s, we specify first the standard character to be bound to, and the second when holding down shift)
 
-# Note
+# Contributing
 
-As of right now this program only modifies the standard us layout and only the three main rows of the keyboard, if you want to extend the script further feel free to do so
+Feel free to add your own custom layouts to the layout directory as pull requests, if this ever becomes quite large we can always split the repo into two of them.
+
+As of right now this program only modifies the standard us layout and only the three main rows of the keyboard, if you want to extend the script further feel free to do so.
+
+
+
 
 
