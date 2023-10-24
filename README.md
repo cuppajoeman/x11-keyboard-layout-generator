@@ -59,6 +59,8 @@ Feel free to add your own custom layouts to the layout directory as pull request
 
 As of right now this program only modifies the standard us layout and only the three main rows of the keyboard, if you want to extend the script further feel free to do so.
 
+Here are some features that would be nice to have:
+
 There should be a way to specify blank keys in the layout files so that they are not overridden.
 
 The delimiter | between the keys of the layout file should be a variable so that we can allow mappings to | without it breaking the formatting.
