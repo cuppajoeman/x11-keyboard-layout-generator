@@ -41,8 +41,8 @@ Here is the standard keyboard for reference:
 
 ```
 |qQ|wW|eE|rR|tT|yY|uU|iI|oO|pP|
- |aΑ|sS|dD|fF|gG|hH|jJ|kK|lL|;:|
-  |zZ|xX|cC|vV|bΒ|nN|mM|,<|.>|/?|
+ |aA|sS|dD|fF|gG|hH|jJ|kK|lL|;:|
+  |zZ|xX|cC|vV|bB|nN|mM|,<|.>|/?|
 ```
 
 (where between each pair of |'s, we specify first the standard character to be bound to, and the second when holding down shift)
