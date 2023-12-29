@@ -24,6 +24,13 @@ you then have to move it to the correct folder:
 
 `sudo cp custom_layout /usr/share/X11/xkb/symbols/my_custom_layout` 
 
+
+# Layers
+
+It also might be convenient to map more than 2 layers.
+
+For example, if key is defined as `|eE€✔|`,  pressing the `e` with `AltGr` modifier key (second alt, first key to the right of the space bar) will type `€` (3rd layer). Pressing `AltGr` + `Shift` + `e` will type `✔` (4th layer).
+
 # Switching between layouts
 
 This can be done based on your desktop environment/WM, simply make some keybindings that run different commands of the form:
